@@ -11,9 +11,13 @@ body {
 }
 
 .card {
-  width: 420px;
-  padding: 90px;
+  width: 100%;
+  max-width: 420px;
+
+  padding: 50px;
   padding-top: 120px;
+
+  margin: 16px;
 
   background: #ebebeb;
   border-radius: 45px;
